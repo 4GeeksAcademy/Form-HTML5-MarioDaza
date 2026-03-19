@@ -1,4 +1,4 @@
-# 💳 Payment Form Interface - Bootstrap Practice
+# 💳 Payment Form Interface - Form Practice
 
 Este proyecto es una interfaz de formulario de pago responsiva, construida como ejercicio de aprendizaje, el manejo de layouts complejos y la semántica de formularios web.
 
